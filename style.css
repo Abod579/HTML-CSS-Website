@@ -147,7 +147,7 @@ html{
     display: flex;
     flex-direction: column;
     padding: 20px;
-    background:url(../img/3d\ white\ bg.jpg) center center/cover no-repeat;
+    background:url(../3d\ white\ bg.jpg) center center/cover no-repeat;
 }
 #services h1,
 #portfolio h1,
